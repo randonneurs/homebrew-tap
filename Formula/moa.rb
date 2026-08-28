@@ -1,8 +1,8 @@
 class Moa < Formula
   desc "Normalize macOS NFD filenames to NFC"
   homepage "https://github.com/randonneurs/moa-releases"
-  url "https://github.com/randonneurs/moa-releases/releases/download/v0.1.2/moa-0.1.2-aarch64-apple-darwin.tar.gz"
-  sha256 "8fbfe3ef8baf9ad0eeab0dfab9971720b32d87a5f4f293815d997f0f4fff35ea"
+  url "https://github.com/randonneurs/moa-releases/releases/download/v0.1.3/moa-0.1.3-aarch64-apple-darwin.tar.gz"
+  sha256 "908ca3e5f6df19d1eded72a723c2359cd50c6bc66b552f9ba313b26fd5904451"
   license "MIT"
 
   depends_on arch: :arm64
